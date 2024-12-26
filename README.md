@@ -51,3 +51,4 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 ![Screenshot 2024-12-26 123737](https://github.com/user-attachments/assets/cca88a3c-f118-4ef0-a5c9-fa5c65a09e4c)
 
 **RESULTS**
+The observation of the simulation results and confirm the successful execution of the program.
